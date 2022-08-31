@@ -287,7 +287,6 @@ void unhuff(string filePath, string outputFilePath){
             }
         }
     }
-    cout << decodedMessage << endl;
 
     ofstream outputFile(outputFilePath);
     outputFile << decodedMessage;
