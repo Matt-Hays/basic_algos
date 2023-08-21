@@ -1,4 +1,5 @@
 # Basic Algorithms
+*Written as part of fundamental algorithms study.*
 
 1. Karatsuba Algorithm: A divide and conquer algorithm for performing multiplication on numbers too large to be manipulated traditionally.
 
